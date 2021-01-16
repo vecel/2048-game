@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1610794492 source:c:\users\mati\desktop\c++\2048 game\src\tile.cpp
+	"Tile.h"
+
+1610794535 c:\users\mati\desktop\c++\2048 game\include\tile.h
+
+1610811952 source:c:\users\mati\desktop\c++\2048 game\src\board.cpp
+	"Board.h"
+
+1610810276 c:\users\mati\desktop\c++\2048 game\include\board.h
+	<Tile.h>
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<conio.h>
+
+1610811920 source:c:\users\mati\desktop\c++\2048 game\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<Board.h>
+
